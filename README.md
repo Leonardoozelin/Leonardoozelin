@@ -37,6 +37,3 @@ Here are some ideas to get you started:
   <img align="center" alt="swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
   <img align="center" alt="vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
-
-
-![Snake animation](https://github.com/gabrielferreir/gabrielferreir/blob/output/github-contribution-grid-snake.svg)
