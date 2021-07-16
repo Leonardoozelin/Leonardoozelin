@@ -18,12 +18,6 @@ Here are some ideas to get you started:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=leonardoozelin&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoozelin&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact&hide=php,html&langs_count=6)
 ##
 
-Would you like to contact me?
-
-<a href="https://www.linkedin.com/in/gabriel-ferreir" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-##
-
 <div style="display: inline_block">
   <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
