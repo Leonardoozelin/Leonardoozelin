@@ -38,4 +38,4 @@ Here are some ideas to get you started:
   <img align="center" alt="vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
 
-![Snake animation](https://github.com/NEMJ/NEMJ/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Leonardoozelin/Leonardoozelin/blob/output/github-contribution-grid-snake.svg)
