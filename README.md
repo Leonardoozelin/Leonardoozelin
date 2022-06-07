@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=leonardoozelin&theme=discord_old_blurple&show_icons=true&include_all_commits=true&count_private=true)
-![Top Langs]![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoozelin&show_icons=true&theme=discord_old_blurple&layout=compact&hide=html&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoozelin&show_icons=true&theme=discord_old_blurple&layout=compact&hide=html&langs_count=8)
 ##
 
 <div style="display: inline_block">
